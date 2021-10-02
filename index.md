@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
+
 ## About Me
 **안녕하세요! 언제나 도전을 멈추지 않는 개발자, 배운것을 빠르게 응용할 줄 아는 개발자 입니다. 환경에 구애받지 않는 낙관성으로 어디에서든 잘 적응하는 성격입니다.
 반갑습니다~ 😎**
@@ -19,12 +20,36 @@ classes: wide
 
 [C++](#link){: .btn .btn--success}  [Python](#link){: .btn .btn--info}  [Django](#link){: .btn .btn--info} [Mysql](#link){: .btn.btn--info} [ABAP](#link){: .btn .btn--success}  <br>[HTML](#link){: .btn.btn--info}  [CSS](#link){: .btn.btn--info}  [Javascript](#link){: .btn.btn--info} 
 
+
+
 ## Project
     
 ### <u>니맛내맛</u>
+<div>Python</div>
+{: .btn .btn--small .btn--inverse }
+<div>Django</div>
+{: .btn .btn--small .btn--inverse }
+<div>PostgreSQL</div>
+{: .btn .btn--small .btn--inverse }
+<div>AWS EC2</div>
+{: .btn .btn--small .btn--inverse }
+<div>HTML</div>
+{: .btn .btn--small .btn--inverse }
+<div>CSS</div>
+{: .btn .btn--small .btn--inverse }
+<div>jquery</div>
+{: .btn .btn--small .btn--inverse }
+<div>uWSGI</div>
+{: .btn .btn--small .btn--inverse }
+<div>NGINX</div>
+{: .btn .btn--small .btn--inverse }
+
 개인 맞춤형 메뉴 추천을 위한 웹/앱 서비스 사용자의 정보를 바탕으로 사용자가 좋아할 만한 메뉴를 추천해 주는 서비스  
-콘텐츠 기반, 협업 필터링 기반 추천 알고리즘을 동시에 사용하는 하는 하이브리드 형태의 알고리즘을 사용하여 서비스 구현
+콘텐츠 기반, 협업 필터링 기반 추천 알고리즘을 동시에 사용하는 하이브리드 형태의 알고리즘을 사용하여 서비스 구현
 {: .notice}
+![YTMT]({{ site.url }}/assets/images/YTMT.jpg)
+
+------------------------------------------
 
 ### <u>인스타 갬성터짐</u>
 2019년 하반기부터 2020년 2월까지 공개SW 컨트리뷰톤에 참여하여 ‘인스타감성 챗봇’을 만드는데 기여.  
