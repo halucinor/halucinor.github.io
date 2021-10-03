@@ -24,7 +24,7 @@ classes: wide
 
 ## Project
     
-### <u>니맛내맛</u>
+### [니맛내맛](https://github.com/halucinor/Your_Taste_My_Taste)
 <div>Python</div>
 {: .btn .btn--small .btn--inverse }
 <div>Django</div>
@@ -51,10 +51,21 @@ classes: wide
 
 ------------------------------------------
 
-### <u>인스타 갬성터짐</u>
+### [인스타 갬성터짐](https://github.com/Keracorn/geulstagram)
+<div>Python</div>
+{: .btn .btn--small .btn--inverse }
+<div>Crwaler</div>
+{: .btn .btn--small .btn--inverse }
+<div>GPT-2</div>
+{: .btn .btn--small .btn--inverse }
+<div>flask</div>
+{: .btn .btn--small .btn--inverse }
+
 2019년 하반기부터 2020년 2월까지 공개SW 컨트리뷰톤에 참여하여 ‘인스타감성 챗봇’을 만드는데 기여.  
 주제는 **‘사용자가 입력한 해시태그에 맞는 글스타그램의 감성을 담은 문장을 만들어주는 챗봇’**. 글스타그램을 크롤링하고, 전처리하는 과정을 거쳐서 글스타그램 Corpus 를 만들고 GPT-2를 사용하여 학습 시켜 만든 모델을 적용하여 사용자가 챗봇을 통해 입력한 해시태그와 유사한 감성을 가지는 글을 받을 수 있도록 하는 프로젝트
 {: .notice}
+
+![INSTAGAMSONG]({{ site.url }}/assets/images/instagamsong.jpg)
 
 
 ### <u> ZDE(Zero Day Exploit)</u>
