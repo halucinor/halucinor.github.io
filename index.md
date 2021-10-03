@@ -113,7 +113,7 @@ classes: wide
 R을 통하여 2014년 시즌의 경기 결과를 시각화 하는 작업을 진행
 {: .notice}
 
-![Baseball]({{ site.url }}/assets/images/baseball.jpg){: .align-center}
+![Baseball]({{ site.url }}/assets/images/BaseBall.jpg){: height='90%' width='90%' .align-center}
 
 ------------------------------------------
 
@@ -136,6 +136,8 @@ R을 통하여 2014년 시즌의 경기 결과를 시각화 하는 작업을 진
 - **2019** AJOU SW융합아이디어 공모전 **장려상**
 - **2019** AJOU Valley Festa 캡스톤디자인 경진대회 **우수상**
 - **2017** 공군보안공모전 **우수상**
+
+-----------------------------------------
 
 ## Exprience
 
