@@ -113,7 +113,7 @@ classes: wide
 R을 통하여 2014년 시즌의 경기 결과를 시각화 하는 작업을 진행
 {: .notice}
 
-![Baseball]({{ site.url }}/assets/images/baseball.jpg){: height='90%' width='90%' .align-center}
+![Baseball]({{ site.url }}/assets/images/BaseBall.jpg){: .align-center}
 
 ------------------------------------------
 
