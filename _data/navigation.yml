@@ -1,9 +1,9 @@
 # main links
 main:
-   - title: "Profile"
+   - title: "About"
      url: /about/
    - title: "포스트"
-     url: /year-archive/
+     url: /posts/
    #- title: "Sample Collections"
    #  url: /collection-archive/
    #- title: "Sitemap"
