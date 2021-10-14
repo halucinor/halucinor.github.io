@@ -1,5 +1,5 @@
 ---
 title: "포스트"
-permalink: /posts
+permalink: /post
 layout: posts
 ---
