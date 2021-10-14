@@ -12,15 +12,13 @@ classes: wide
 ## STORY
 산업공학을 전공하다 소프트웨어 개발에 빠지게 되었습니다. 제일 처음 만든 프로그램은 단순한 영어 단어장 이였지만, 만드는 과정에서 소프트웨어 개발에 큰 매력를 느꼈고 컴퓨터 공학에 대해 배우고 싶어 ICT 융합 전공수업을 수강하고 개발자의 길을 걷고 있습니다.
 
-지금은 SAP ABAPer로 근무하고 있습니다.
-
 -------------------
 
 ## Skills
 
 [C++](#link){: .btn .btn--success}  [Python](#link){: .btn .btn--info}  [Django](#link){: .btn .btn--info} [Mysql](#link){: .btn.btn--info} [ABAP](#link){: .btn .btn--success}  <br>[HTML](#link){: .btn.btn--info}  [CSS](#link){: .btn.btn--info}  [Javascript](#link){: .btn.btn--info} 
 
-
+-------------------
 
 ## Project
     
@@ -49,6 +47,7 @@ classes: wide
 개인 맞춤형 메뉴 추천을 위한 웹/앱 서비스 사용자의 정보를 바탕으로 사용자가 좋아할 만한 메뉴를 추천해 주는 서비스  
 콘텐츠 기반, 협업 필터링 기반 추천 알고리즘을 동시에 사용하는 하이브리드 형태의 알고리즘을 사용하여 서비스 구현
 {: .notice}
+
 ![YTMT]({{ site.url }}/assets/images/YTMT.jpg){: height='80%' width='80%' .align-center}
 
 
