@@ -11,18 +11,31 @@ layout: single
 
 ------------------------------------------
 ## STORY
-산업공학을 전공하다 소프트웨어 개발에 빠지게 되었습니다. 제일 처음 만든 프로그램은 단순한 영어 단어장 이였지만, 만드는 과정에서 소프트웨어 개발에 큰 매력를 느꼈고 컴퓨터 공학에 대해 배우고 싶어 ICT 융합 전공수업을 수강하고 개발자의 길을 걷고 있습니다.
+산업공학을 전공하다 소프트웨어 개발에 빠지게 되었습니다. 제일 처음 만든 프로그램은 단순한 영어 단어장 이였지만, 만드는 과정에서 소프트웨어 개발에 큰 매력를 느꼈고 컴퓨터 공학에 대해 배우고 싶어 ICT 융합 전공수업을 수강하고 개발자의 길을 걷고 있습니다.  
+현재에는 네이버 부스트캠프 AI tech 과정에서 ML engineer 가 되기 위해 공부하고 있습니다.
 
 -------------------
 
 ## Skills
 
-[C++](#link){: .btn .btn--success}  [Python](#link){: .btn .btn--info}  [Django](#link){: .btn .btn--info} [Mysql](#link){: .btn.btn--info} [ABAP](#link){: .btn .btn--success}  <br>[HTML](#link){: .btn.btn--info}  [CSS](#link){: .btn.btn--info}  [Javascript](#link){: .btn.btn--info} 
+[C++](#link){: .btn .btn--success}  [Python](#link){: .btn .btn--success}  [Django](#link){: .btn .btn--info} [Pytorch](#link){: .btn.btn--info}  [Mysql](#link){: .btn.btn--info} [ABAP](#link){: .btn .btn--success}  <br>[HTML](#link){: .btn.btn--info}  [CSS](#link){: .btn.btn--info} [Java](#link){: .btn .btn--success} [Spring](#link){: .btn .btn--info} [Javascript](#link){: .btn.btn--info} 
 
 -------------------
 
 ## Project
-    
+
+
+### [마스크 착용 상태 분류 대회](https://github.com/boostcampaitech3/level1-image-classification-level1-recsys-04)
+<div>Python</div>
+{: .btn .btn--small .btn--inverse }
+<div>Pytorch</div>
+{: .btn .btn--small .btn--inverse }
+
+마스크 착용상태 분류: 카메라로 촬영한 얼굴 이미지의 마스크 착용 여부, 성별, 나이를 잘 구분하는 모델과 데이터셋을 만드는 대회
+학습 성능을 향상시키기 위해 Data Argumentation(CutMix), CV(K-fold)방법을 구현하여 모델 성능을 향상시킴. 최종 순위 48팀 중 4위를 기록
+{: .notice}
+![MASK](https://user-images.githubusercontent.com/91870042/156873202-b5a40a1f-5cd9-4320-a262-2135c1d4195b.png){: height='90%' width='90%' .align-center}
+
 ### [니맛내맛](https://github.com/halucinor/Your_Taste_My_Taste)
 <div>Python</div>
 {: .btn .btn--small .btn--inverse }
@@ -140,8 +153,8 @@ R을 통하여 2014년 시즌의 경기 결과를 시각화 하는 작업을 진
 -----------------------------------------
 
 ## Exprience
-
-- *2020.01 ~ present* 롯데정보통신 ERP컨설팅 팀
+- *2022.01 ~ present* 네이버 부스트캠프 AI tech 3기
+- *2020.01 ~ 2022.02* 롯데정보통신 ERP컨설팅 팀
 - *2019.09 ~ 2019.10* 케라콘-케라스기반챗봇시스템 컨트리뷰터
 - *2015.07 ~ 2016.06* 웹엔터프라이즈 시스템 연구실 인턴활동
 - *2015.02 ~ 2015.06* Jyväskylä university of Applied sciences 교환학생
